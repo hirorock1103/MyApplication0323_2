@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.amb01.myapplication0323.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/chapter_1" />
+
+        <Button
+            android:id="@+id/my_button1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/button_pickup" />
+
+        <Button
+            android:id="@+id/my_button2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/button_no_dinner" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/chapter_2" />
+
+        <Button
+            android:id="@+id/my_button3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/title_activity_broadcast" />
+
+
+        <Button
+            android:id="@+id/my_button4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/title_activity_notification" />
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

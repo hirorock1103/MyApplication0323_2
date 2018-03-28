@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application0323</string>
+    <string name="button_pickup">迎えにきて</string>
+    <string name="button_no_dinner">めしいらない</string>
+    <string name="button_dinner">めし食べたい</string>
+    <string name="button_send">送信</string>
+    <string name="subject">件名</string>
+    <string name="place">場所</string>
+    <string name="dinner">食べたいもの</string>
+    <string name="always">いつもの場所</string>
+    <string name="set">セット</string>
+    <string name="disolve">解除</string>
+    <string name="todo">やること「</string>
+    <string name="mail_to">mdiz1103@gmail.com</string>
+    <string name="action_setting">Setting</string>
+    <string name="title_activity_pickup">PickUpActivity</string>
+    <string name="title_activity_no_dinner">NoDinnerActivity</string>
+    <string name="title_activity_broadcast">BroadCastActivity</string>
+    <string name="title_activity_notification">Notification</string>
+    <string name="title_back_to_main_activity">Back</string>
+    <string name="chapter_1">Chapter1 メール送信</string>
+    <string name="chapter_2">Chapter2 ブロードキャストレシーバー</string>
+</resources>
